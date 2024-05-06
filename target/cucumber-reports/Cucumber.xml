@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.386" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Product Management" name="Add all products to cart and checkout - Example #1.1" time="4.319">
+<system-out><![CDATA[
+Given I am logged in with valid 'standard_user' and 'secret_sauce'..........passed
+When I add all products to the cart.........................................passed
+Then I can see in cart badge same value as quantity of products listed on home-page.passed
+And I click on cart button..................................................passed
+Then I am redirected to cart-page...........................................passed
+And I can see all products from home-page listed in the cart................passed
+And I proceed to checkout and fill personal information: 'd', 'd', 'd'......passed
+And I click on continue button..............................................passed
+Then I am redirected to checkout overview page..............................passed
+And I verify the prices.....................................................passed
+And I click on finish button................................................passed
+Then I am redirected to checkout complete page..............................passed
+And I click on back to home page............................................passed
+Then cart is empty..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

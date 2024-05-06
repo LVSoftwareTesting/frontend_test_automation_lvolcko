@@ -1,0 +1,3 @@
+com/frontend_test_automation/lv/steps/ProductManagementSteps.class
+com/frontend_test_automation/lv/runner/TestRunner.class
+com/frontend_test_automation/lv/steps/AuthSteps.class

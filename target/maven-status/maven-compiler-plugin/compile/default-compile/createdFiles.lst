@@ -1,0 +1,6 @@
+com/frontend_test_automation/lv/pages/CheckoutOverviewPage.class
+com/frontend_test_automation/lv/pages/LoginPage.class
+com/frontend_test_automation/lv/pages/CartPage.class
+com/frontend_test_automation/lv/pages/CheckoutYourInformationPage.class
+com/frontend_test_automation/lv/pages/HomePage.class
+com/frontend_test_automation/lv/pages/CheckoutCompletePage.class

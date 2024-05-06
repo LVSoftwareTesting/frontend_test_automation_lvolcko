@@ -1,5 +1,5 @@
 
-# Frontend Test Automation - LVolcko
+# Frontend Test Automation
 
 This repository contains Selenium-based automated tests for a web application. Follow these instructions to set up and run the tests.
 
